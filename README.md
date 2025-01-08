@@ -1,2 +1,1 @@
-# works
-Ödevler alanı
+# Nesne yönelimli programlama dersi odev soruları
